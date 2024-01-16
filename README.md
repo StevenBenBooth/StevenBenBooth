@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an aspiring Data Scientist/Data Engineer, looking to expand my practical skills while continuing to study math and theory on the side. I am particularly interested in machine learning, and am inspired by projects that marry technical complexity with positive social impact.
+
+I'm currently seeking a job, so feel free to reach out to me at StevenBenBooth@gmail.com if this description sounds like it might be a match!
+
 <!--
 **StevenBenBooth/StevenBenBooth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
